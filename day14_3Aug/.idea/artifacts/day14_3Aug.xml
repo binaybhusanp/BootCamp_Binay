@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="day14_3Aug">
+    <output-path>$USER_HOME$/Tomcat/webapps</output-path>
+    <root id="archive" name="day14_3Aug.war">
+      <element id="javaee-facet-resources" facet="day14_3Aug/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="day14_3Aug" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
